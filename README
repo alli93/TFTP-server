@@ -1,4 +1,4 @@
-#Trivial File Transfer Protocol server
+# Trivial File Transfer Protocol server
 tftp.c is the source code for a trivial file transfer server following the RFC1350 standard implemented using the C socket programing interface.
 
 Our implementation supports simultaneous downloads, the maximum amount of concurrent downloads can be set with the max_clients variable 
